@@ -1,0 +1,31 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #de7471
+}
+
+img{
+    width:500px;
+    height:300px;
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+
+body {
+background-color: #6ededa;
+}
+
+footer{
+font-size: 30px;
+text-align: center;
+color: #de7471
+}
+
+footer img{
+    width:60px;
+    height:40px;
+}
